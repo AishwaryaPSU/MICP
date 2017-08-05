@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/week3/MICP_week3_tebowIt.docx</name>
+			<type>1</type>
+			<location>A:/MICP/MICP_week3_tebowIt.docx</location>
+		</link>
+	</linkedResources>
 </projectDescription>
